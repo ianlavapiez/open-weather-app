@@ -1,6 +1,6 @@
 # Environment variables
 
-These variables are used to secure confidential keys needed in the app.
+These variables are used to secure confidential keys needed in the app. You need to create your own `.env` file and copy and paste the variables from [.env.example](/.env.example).
 
 ## Environment-independent variables
 
